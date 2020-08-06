@@ -1,0 +1,6 @@
+# Intellij
+.idea/
+.metadata/
+.recommenders/
+*.iml
+*.iws
